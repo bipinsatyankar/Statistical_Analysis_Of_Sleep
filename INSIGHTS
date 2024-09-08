@@ -1,0 +1,17 @@
+The scatter plot visualizes the relationship between **Sleep Duration** (x-axis) and **Heart Rate** (y-axis), with a **regression line** indicating the trend.
+
+### Insights:
+1. **Negative Relationship**: 
+   - The red regression line slopes downward, suggesting a **negative correlation** between sleep duration and heart rate. As sleep duration increases, heart rate tends to decrease.
+
+2. **Spread of Data Points**:
+   - The data points are scattered, indicating variability in the heart rate for different sleep durations. Some individuals with shorter sleep durations have higher heart rates, while those who sleep longer seem to have generally lower heart rates.
+   
+3. **Strength of Correlation**:
+   - The spread of points around the regression line implies that the relationship between sleep duration and heart rate is not very strong. There are outliers and variations, so sleep duration alone may not be the best predictor of heart rate.
+
+4. **Outliers**:
+   - There are a few outliers where individuals with shorter sleep durations have higher heart rates, and those with longer sleep durations have significantly lower heart rates. These points don't follow the general trend as closely.
+
+### Conclusion:
+While there is a slight trend indicating that longer sleep duration is associated with lower heart rates, the correlation is not very strong, and additional factors may influence heart rate. Further analysis could explore other variables to strengthen the predictive model.
