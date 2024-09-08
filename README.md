@@ -105,11 +105,12 @@ While we won’t dive into code here, the general steps for performing statistic
 
 3. **Inferential Analysis**:
    - Perform hypothesis tests and construct confidence intervals using `scipy` and `statsmodels`. Model relationships between variables with regression analysis and assess group differences using ANOVA.
-   - Created by:
-Name:P.BIPIN SATYNAKAR
-Mail-id:bipinsatyankar@gmail.com
+
 
 4. **Visualization**:
    - Use `matplotlib` and `seaborn` to visualize data distributions, regression lines, and statistical test results, enhancing the interpretability of the analysis.
 
 By following these steps, you can effectively analyze datasets, understand their characteristics, and make data-driven conclusions.
+   - Created by:
+Name:P.BIPIN SATYNAKAR
+Mail-id:bipinsatyankar@gmail.com
